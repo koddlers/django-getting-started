@@ -8,10 +8,19 @@ db.sqlite3
 db.sqlite3-journal
 media
 
+# IDEs and Editors
 .idea
 .idea/**
 .vscode
 .vscode/**
+
+# virtual environments
+env
+env/**
+venv
+venv/**
+.venv
+.venv/**
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
